@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CICDGitHubDevopa", "CICDGitHubDevopa\CICDGitHubDevopa.csproj", "{4438F8F5-57A4-4266-907C-0C1D34D3CF3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4438F8F5-57A4-4266-907C-0C1D34D3CF3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4438F8F5-57A4-4266-907C-0C1D34D3CF3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4438F8F5-57A4-4266-907C-0C1D34D3CF3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4438F8F5-57A4-4266-907C-0C1D34D3CF3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {870EB4B9-8E34-4C45-AB28-F6AA05F21664}
+	EndGlobalSection
+EndGlobal
